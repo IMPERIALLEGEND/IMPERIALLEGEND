@@ -27,12 +27,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 #
-<details open="">
-  <summary>
+
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="github.gif"></a>
+<br/>
+
+
+
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"></g-emoji> 
   <strong>Languages and Tools🛠:</strong>
-</summary>
- 
+
 <br/>
 <br/>
 
