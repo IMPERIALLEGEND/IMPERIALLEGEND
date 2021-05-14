@@ -88,3 +88,28 @@ Here are some ideas to get you started:
 
 #
 
+<details>
+  <summary>  <font size="2"><b>Connect with me:<a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif"  height="25px" style="max-width:100%;">
+  </a></b></font></summary> 
+    
+</br> 
+
+[<img align="left" alt="Tejaswa | Github" width="35px" src="linkedin.svg" />][Linkedin]
+[<img align="left" alt="Tejaswa | Github" width="35px" src="github.svg" />][myprofile]
+[<img align="left" alt="Tejaswa | Instagram" width="35px" src="instagram.svg" />][instagram]
+[<img align="left" alt="Tejaswa | Twitter" width="35px" src="twitter.svg" />][twitter]
+[<img align="left" alt="Tejaswa | Facebook" width="35px" src="facebook.svg" />][facebook]
+[<img align="left" alt="Tejaswa | Facebook" width="35px" src="telegram.svg" />][Telegram]
+[<img align="left" alt="Tejaswa | Github" width="35px" src="gmail.svg" />][Gmail]
+
+</details>
+<br/>
+
+[myprofile]: <https://github.com/IMPERIALLEGEND>
+[Telegram]: <https://t.me/tejaswawadekar>
+[Linkedin]: <https://in.linkedin.com/in/tejaswa-wadekar-532953193>
+[Gmail]: <mailto:wadekartj@gmail.com>
+[facebook]: <https://www.facebook.com/tejaswa.wadekar.315>
+[instagram]: <https://www.instagram.com/tejaswawadekar>
+[twitter]: <https://twitter.com/TejaswaW>
