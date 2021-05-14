@@ -1,8 +1,13 @@
 <img src="tej3.jpg" alt="Here is a little bit about me!">
+
 ### Hi there 👋
 
 
-**IMPERIALLEGEND/IMPERIALLEGEND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me🧑:
+I am Information Technology Engineering student.<br/>
+Intern at GenioBITS Technologies | PEP Trainee at EPAM | Subject Matter Expert at Chegg Inc. | 3⭐ Codechef(1692) | AI & ML Enthusiastic.
+
+<img align="right" alt="GIF" src="" width="400" height="280" />
 
 Here are some ideas to get you started:
 
