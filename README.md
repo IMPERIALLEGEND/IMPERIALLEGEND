@@ -7,7 +7,7 @@
 I am Information Technology Engineering student.<br/>
 Intern at GenioBITS Technologies | PEP Trainee at EPAM | Subject Matter Expert at Chegg Inc. | 3⭐ Codechef(1692) | AI & ML Enthusiastic.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="image.gif" width="400" height="280" />
 
 Here are some ideas to get you started:
 
