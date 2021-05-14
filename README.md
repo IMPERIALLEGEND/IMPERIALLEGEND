@@ -7,7 +7,7 @@
 I am Information Technology Engineering student.<br/>
 Intern at GenioBITS Technologies | PEP Trainee at EPAM | Subject Matter Expert at Chegg Inc. | 3⭐ Codechef(1692) | AI & ML Enthusiastic.
 
-<img align="right" alt="GIF" src="" width="400" height="280" />
+<img align="right" alt="GIF" src="logo.jpg" width="400" height="280" />
 
 Here are some ideas to get you started:
 
