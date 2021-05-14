@@ -1,4 +1,4 @@
-<img src="My Post (10).jpg" alt="Here is a little bit about me!">
+<img src="tej3.jpg" alt="Here is a little bit about me!">
 ### Hi there 👋
 
 
