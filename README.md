@@ -149,6 +149,20 @@ JavaScript               9 repos             ██░░░░░░░░░�
 </details>
 <br/>
 
+<details open="">
+  <summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>My Projects ✨:</strong>
+</summary>
+  </br>
+  
+<a href="github.com/IMPERIALLEGEND/BigMart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight"/>
+</a>
+<a href="github.com/IMPERIALLEGEND/Movie-Recommendation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
+</a>
+
 
 
 [myprofile]: <https://github.com/IMPERIALLEGEND>
