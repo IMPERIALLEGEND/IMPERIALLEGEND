@@ -1,10 +1,21 @@
 <img src="tej3.jpg" alt="Here is a little bit about me!">
 
-<p align="center">
+
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Hi.gif" width="40px" />
+  </a> 
+  <p align="center">
   <img src="https://gpvc.arturio.dev/IMPERIALLEGEND" alt="profile views">  •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/IMPERIALLEGEND?label=Followers&style=social">  •   
   <img src="https://img.shields.io/github/stars/IMPERIALLEGEND?label=Stars" alt="Total Stars">
 </p>
+
+</h1>
 
 ### Hi there 👋
 
@@ -90,7 +101,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>  <font size="2"><b>Connect with me:<a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Handshake.gif"  height="25px" style="max-width:100%;">
+    <img src="Handshake.gif"  height="25px" style="max-width:100%;">
   </a></b></font></summary> 
     
 </br> 
