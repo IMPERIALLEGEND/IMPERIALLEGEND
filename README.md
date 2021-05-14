@@ -93,7 +93,22 @@ Here are some ideas to get you started:
   <a href="https://github.com/IMPERIALLEGEND">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMPERIALLEGEND&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+  
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  </a>
+  <a>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  </a>
 </p>
+
+
 </details>
 <br>
 
