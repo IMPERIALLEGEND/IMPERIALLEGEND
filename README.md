@@ -156,10 +156,10 @@ JavaScript               9 repos             ██░░░░░░░░░�
 </summary>
   </br>
   
-<a href="github.com/IMPERIALLEGEND/BigMart">
+<a href="]https://github.com/IMPERIALLEGEND/BigMart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BuyRight"/>
 </a>
-<a href="github.com/IMPERIALLEGEND/Movie-Recommendation">
+<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
 </a>
 
