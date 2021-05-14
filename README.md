@@ -94,18 +94,35 @@ Here are some ideas to get you started:
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMPERIALLEGEND&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
   
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
+ ```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    33 hrs 9 mins       ██████████████████████░░░   91.04% 
+Python                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+C++                      51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+HTML                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+JavaScript 
+ 
+ 🐱‍💻 Projects: 
+IMPERIALLEGEND.github.io  17 hrs 23 mins      ████████████░░░░░░░░░░░░░   47.73% 
+BIGMART                   9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   27.28% 
+Non_Linear_Data_Structure 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
+Artificial-Intelligence   3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+Unknown Project    
+ 
+🔥 I Mostly Code in Jupyter Notebook: 
+Jupyter Notebook         07 repos            ██████░░░░░░░░░░░░░░░░░░░   26.26% 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.23% 
+C++                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
+Java                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+  
+  
 </p>
 
 
@@ -131,6 +148,8 @@ Here are some ideas to get you started:
 
 </details>
 <br/>
+
+
 
 [myprofile]: <https://github.com/IMPERIALLEGEND>
 [Telegram]: <https://t.me/tejaswawadekar>
