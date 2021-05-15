@@ -1,5 +1,6 @@
+<a href="http://tejaswawadekar.me/PortFolio">
 <img src="tej3.jpg" alt="Here is a little bit about me!">
-
+</a>
 
 <h1 align="center">
   <a target="_blank">
@@ -21,7 +22,7 @@
 
 ### About me🧑:
 I am Information Technology Engineering student.<br/>
-Intern at GenioBITS Technologies | PEP Trainee at EPAM | Subject Matter Expert at Chegg Inc. | 3⭐ Codechef(1692) | AI & ML Enthusiastic.
+Intern at [GenioBITS Technologies](https://geniobits.com/) | PEP Trainee at [EPAM](https://www.epam.com/) | Subject Matter Expert at [Chegg Inc](https://www.chegg.com/). | 3⭐ [Codechef(1692)](https://www.codechef.com/users/imperial) | AI & ML Enthusiastic.
 
 <img align="right" alt="GIF" src="image.gif" width="400" height="280" />
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Android, Data Science and Web Development**
 - 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
 - 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
-- 🤔 I’m looking for help with **Internships**
+- 🤔 I’m looking for help with **Open Source Contribution**
 - 💬 Ask me about [here](mailto:wadekartj@gmail.com)! I am happy to help.
 - 📫 How to reach me: [here](https://in.linkedin.com/in/tejaswa-wadekar-532953193)
 - 😄 Pronouns: **He/Him/His**
@@ -149,19 +150,45 @@ JavaScript               9 repos             ██░░░░░░░░░�
 </details>
 <br/>
 
+#
+
 <details open="">
-  <summary>
+<summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>My Projects ✨:</strong>
 </summary>
   </br>
   
-<a href="https://github.com/IMPERIALLEGEND/BigMart">
+<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BigMart"/>
+</a>
+<a href="https://github.com/IMPERIALLEGEND/BigMart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="Movie-Recommendation"/>
+  
+</a>
+
+
+<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
 </a>
 <a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
 </a>
+
+<a href="https://github.com/IMPERIALLEGEND/BigMart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BigMart"/>
+</a>
+<a href="https://github.com/IMPERIALLEGEND/BigMart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BigMart"/>
+</a>
+
+<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
+</a>
+<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
+</a>
+
 
 
 
