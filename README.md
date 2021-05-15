@@ -159,34 +159,34 @@ JavaScript               9 repos             ██░░░░░░░░░�
 </summary>
   </br>
   
-<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
+<a href="https://github.com/IMPERIALLEGEND/BigMart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BigMart"/>
 </a>
-<a href="https://github.com/IMPERIALLEGEND/BigMart">
+<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="Movie-Recommendation"/>
   
 </a>
 
 
-<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
+<a href="https://github.com/IMPERIALLEGEND/DAILY-JOURNAL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=DAILY-JOURNAL&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="DAILY-JOURNAL">
 </a>
-<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
-</a>
-
-<a href="https://github.com/IMPERIALLEGEND/BigMart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BigMart"/>
-</a>
-<a href="https://github.com/IMPERIALLEGEND/BigMart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=BigMart&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="BigMart"/>
+<a href="https://github.com/IMPERIALLEGEND/PortFolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=PortFolio&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="PortFolio"/>
 </a>
 
-<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
+<a href="https://github.com/IMPERIALLEGEND/flutternews">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=flutternews&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="flutternews"/>
 </a>
-<a href="https://github.com/IMPERIALLEGEND/Movie-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Movie-Recommendation&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Movie-Recommendation"/>
+<a href="https://github.com/IMPERIALLEGEND/eCommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=eCommerce&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="eCommerce"/>
+</a>
+
+<a href="https://github.com/IMPERIALLEGEND/Build_Sentiment_Analysis_Flask_Web_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Build_Sentiment_Analysis_Flask_Web_App&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Build_Sentiment_Analysis_Flask_Web_App"/>
+</a>
+<a href="https://github.com/IMPERIALLEGEND/Flight-Price-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=Flight-Price-Prediction&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="Flight-Price-Prediction"/>
 </a>
 
 
