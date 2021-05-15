@@ -175,6 +175,7 @@ JavaScript               9 repos             ██░░░░░░░░░�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=PortFolio&show_icons=true&hide=stars,commits,prs,issues,contribs&theme=synthwave" alt="PortFolio"/>
 </a>
 
+
 <a href="https://github.com/IMPERIALLEGEND/flutternews">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IMPERIALLEGEND&repo=flutternews&show_icons=true&theme=outrun&hide=stars,commits,prs,issues,contribs" alt="flutternews"/>
 </a>
