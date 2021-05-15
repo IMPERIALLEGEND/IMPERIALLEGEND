@@ -17,7 +17,6 @@
 
 </h1>
 
-### Hi there 👋
 
 
 ### About me🧑:
@@ -28,14 +27,14 @@ Intern at GenioBITS Technologies | PEP Trainee at EPAM | Subject Matter Expert a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **Android, Data Science and Web Development**
+- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
+- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
+- 🤔 I’m looking for help with **Internships**
+- 💬 Ask me about [here](mailto:wadekartj@gmail.com)! I am happy to help.
+- 📫 How to reach me: [here](https://in.linkedin.com/in/tejaswa-wadekar-532953193)
+- 😄 Pronouns: **He/Him/His**
+- ⚡ Fun fact: **"Nothing Good Happens After 2:00 Am When 2:00 Am Rolls Around, Just Go Home And Go To Sleep."**
 
 #
 
