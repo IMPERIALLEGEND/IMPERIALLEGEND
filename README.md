@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [here](https://in.linkedin.com/in/tejaswa-wadekar-532953193)
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **"Nothing Good Happens After 2:00 Am When 2:00 Am Rolls Around, Just Go Home And Go To Sleep."**
+- <img src="house.png" width="20px" height="20px"/>  Hogwarts House : **[Gryffindor](https://harrypotter.fandom.com/wiki/Gryffindor)** <img width="20px" height="20px" src="Gryffindor_ClearBG.png">
 
 #
 
