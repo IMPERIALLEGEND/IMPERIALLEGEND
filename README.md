@@ -1,14 +1,14 @@
 <a href="http://tejaswawadekar.me/PortFolio">
-<img src="tej3.jpg" alt="Here is a little bit about me!">
+<img src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/tej3.jpg" alt="Here is a little bit about me!">
 </a>
 
 <h1 align="center">
   <a target="_blank">
-    <img src="Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/blob/master/Earth.gif?raw=true" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="Hi.gif" width="40px" />
+  <a target="_blank">i
+    <img src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/Hi.gif" width="40px" />
   </a> 
   <p align="center">
   <img src="https://gpvc.arturio.dev/IMPERIALLEGEND" alt="profile views">  •  
@@ -24,7 +24,7 @@
 I am Information Technology Engineering student.<br/>
 Intern at [GenioBITS Technologies](https://geniobits.com/) | PEP Trainee at [EPAM](https://www.epam.com/) | Subject Matter Expert at [Chegg Inc](https://www.chegg.com/). | 3⭐ [Codechef(1692)](https://www.codechef.com/users/imperial) | AI & ML Enthusiastic.
 
-<img align="right" alt="GIF" src="image.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/image.gif" width="400" height="280" />
 
 Here are some ideas to get you started:
 
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [here](https://in.linkedin.com/in/tejaswa-wadekar-532953193)
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **"Nothing Good Happens After 2:00 Am When 2:00 Am Rolls Around, Just Go Home And Go To Sleep."**
-- <img src="house.png" width="20px" height="20px"/>  Hogwarts House : **[Gryffindor](https://harrypotter.fandom.com/wiki/Gryffindor)** <img width="20px" height="20px" src="Gryffindor_ClearBG.png">
+- <img src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/house.png" width="20px" height="20px"/>  Hogwarts House : **[Gryffindor](https://harrypotter.fandom.com/wiki/Gryffindor)** <img width="20px" height="20px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/Gryffindor_ClearBG.png">
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/github.gif"></a>
 <br/>
 
 
@@ -134,18 +134,18 @@ JavaScript               07 repos            ██░░░░░░░░░�
 
 <details>
   <summary>  <font size="2"><b>Connect with me:<a target="_blank">
-    <img src="Handshake.gif"  height="25px" style="max-width:100%;">
+    <img src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/Handshake.gif"  height="25px" style="max-width:100%;">
   </a></b></font></summary> 
     
 </br> 
 
-[<img align="left" alt="Tejaswa | Github" width="35px" src="linkedin.svg" />][Linkedin]
-[<img align="left" alt="Tejaswa | Github" width="35px" src="github.svg" />][myprofile]
-[<img align="left" alt="Tejaswa | Instagram" width="35px" src="instagram.svg" />][instagram]
-[<img align="left" alt="Tejaswa | Twitter" width="35px" src="twitter.svg" />][twitter]
-[<img align="left" alt="Tejaswa | Facebook" width="35px" src="facebook.svg" />][facebook]
-[<img align="left" alt="Tejaswa | Facebook" width="35px" src="telegram.svg" />][Telegram]
-[<img align="left" alt="Tejaswa | Github" width="35px" src="gmail.svg" />][Gmail]
+[<img align="left" alt="Tejaswa | Github" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Tejaswa | Github" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/github.svg" />][myprofile]
+[<img align="left" alt="Tejaswa | Instagram" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/instagram.svg" />][instagram]
+[<img align="left" alt="Tejaswa | Twitter" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/twitter.svg" />][twitter]
+[<img align="left" alt="Tejaswa | Facebook" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/facebook.svg" />][facebook]
+[<img align="left" alt="Tejaswa | Facebook" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/telegram.svg" />][Telegram]
+[<img align="left" alt="Tejaswa | Github" width="35px" src="https://github.com/IMPERIALLEGEND/IMPERIALLEGEND/raw/master/gmail.svg" />][Gmail]
 
 </details>
 <br/>
